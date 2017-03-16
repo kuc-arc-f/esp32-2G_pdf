@@ -1,4 +1,5 @@
 ﻿# ESP-WROOM-32 (ESP32 ) , PCB schmatics
+
  Version: 1.0.1
 
  Author  : Kouji Nakashima / kuc-arc-f.com
